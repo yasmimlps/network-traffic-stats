@@ -1,0 +1,19 @@
+
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(΅€Òιόÿÿÿÿ8΄™Φ¦‰2
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„α”8µ™Φ¦‰2
+s	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†‹»ΐύÿÿÿÿ8µ™Φ¦‰2
+n	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§­±Ι8µ™Φ¦‰2
+Y	java:S125—"<This block of commented-out lines of code should be removed.(°Ό†Α8µ™Φ¦‰2
+^	java:S125™"<This block of commented-out lines of code should be removed.(ξ’¤ώÿÿÿÿ8µ™Φ¦‰2
+X	java:S125›"<This block of commented-out lines of code should be removed.(ƒέ½m8µ™Φ¦‰2
+Y	java:S125"<This block of commented-out lines of code should be removed.(Π¥λ8µ™Φ¦‰2
+^	java:S125£"<This block of commented-out lines of code should be removed.(οΐνΏψÿÿÿÿ8µ™Φ¦‰2
+^	java:S125¥"<This block of commented-out lines of code should be removed.(Χ¤ο°όÿÿÿÿ8µ™Φ¦‰2
+Y	java:S125§"<This block of commented-out lines of code should be removed.(²ϊΏ8µ™Φ¦‰2
+^	java:S125©"<This block of commented-out lines of code should be removed.(©ΏΫ½ύÿÿÿÿ8µ™Φ¦‰2
+x
+java:S1874Δ"6Remove this use of "checkOpNoThrow"; it is deprecated.(μπÿÿÿÿÿJ$75397bf6-8bc9-4527-8d21-f71d95544530
+x
+java:S1874Ο"6Remove this use of "checkOpNoThrow"; it is deprecated.(μπÿÿÿÿÿJ$17403fc2-fc37-497a-ab35-d932fe5a8ee7
+
+java:S1874θ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Σ»Χ¶ώÿÿÿÿJ$441353a8-8f94-4a6a-8882-1339bcee7758

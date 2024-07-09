@@ -1,0 +1,23 @@
+
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+f
+6app/src/main/java/com/example/teste/model/Package.java,5\0\50fb40484aabbb43fec305ae632f6661ff10b0d4
+d
+4app/src/main/java/com/example/teste/ui/theme/Type.kt,4\5\458dfa30096a5218f198d2388181327cd3da9f84
+q
+Aapp/src/main/java/com/example/teste/utils/NetworkStatsHelper.java,a\e\aee245112be05bbee0254ee519d596f901af1f32
+q
+Aapp/src/main/java/com/example/teste/utils/TrafficStatsHelper.java,f\d\fd437c7e36bc8e37669dd54b95b4a5fbbaa6433b
+s
+Capp/src/main/java/com/example/teste/utils/PackageManagerHelper.java,7\2\72a9e19c8caa2340662444d893e0ceaf6d4ee269
+u
+Eapp/src/main/java/com/example/teste/utils/OnPackageClickListener.java,3\8\38ca67fb37e15cf0c2579e0948c5adfa5ea8c4ed
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+j
+:app/src/main/java/com/example/teste/view/ListActivity.java,5\4\549cdd073fd8d59308cf85e08ac6e82b61d26aa3
+l
+<app/src/main/java/com/example/teste/view/PackageAdapter.java,c\4\c45c64cd89034bcf5a13d736829880f0471bff4c
+k
+;app/src/main/java/com/example/teste/view/StatsActivity.java,b\4\b4e201736d9eb2c4537075050aca694c1b865dde
